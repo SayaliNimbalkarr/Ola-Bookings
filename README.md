@@ -39,6 +39,3 @@ This project analyzes an Ola Bookings dataset containing 100,000 records. The wo
 
 * Ola Bookings Dataset
 * Records: 100,000
-
-
-[Your Name]
