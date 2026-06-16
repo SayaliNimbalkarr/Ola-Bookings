@@ -51,5 +51,3 @@ SELECT "Booking_ID", "Incomplete_Rides_Reason"
 FROM bookings
 WHERE "Incomplete_Rides" = 'Yes'
 
-
-SELECT * FROM bookings
